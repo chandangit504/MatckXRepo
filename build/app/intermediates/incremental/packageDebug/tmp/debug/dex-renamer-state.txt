@@ -1,0 +1,4 @@
+#Sun Aug 14 23:06:50 IST 2022
+base.0=C\:\\Users\\Lenovo\\Desktop\\PImwork\\assessment_matchX-chandan\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

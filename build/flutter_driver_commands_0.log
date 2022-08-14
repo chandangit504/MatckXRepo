@@ -1,0 +1,691 @@
+2022-08-14 00:06:49.333939 >>> {command: get_health}
+2022-08-14 00:06:49.488224 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 00:06:49.547402 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 00:06:49.681608 <<< {isError: true, response: Uncaught extension error while executing tap: 'package:flutter_driver/src/extension/extension.dart': Failed assertion: line 366 pos 14: 'WidgetsBinding.instance.isRootWidgetAttached || !command.requiresRootWidgetAttached': No root widget is attached; have you remembered to call runApp()?
+#0      _AssertionError._doThrowNew (dart:core-patch/errors_patch.dart:51:61)
+#1      _AssertionError._throwNew (dart:core-patch/errors_patch.dart:40:5)
+#2      FlutterDriverExtension.call (package:flutter_driver/src/extension/extension.dart:366:14)
+#3      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart:851:32)
+<asynchronous suspension>
+, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 00:08:04.453300 >>> {command: get_health}
+2022-08-14 00:08:04.553911 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 00:08:04.575854 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 00:08:04.721046 <<< {isError: true, response: Uncaught extension error while executing tap: 'package:flutter_driver/src/extension/extension.dart': Failed assertion: line 366 pos 14: 'WidgetsBinding.instance.isRootWidgetAttached || !command.requiresRootWidgetAttached': No root widget is attached; have you remembered to call runApp()?
+#0      _AssertionError._doThrowNew (dart:core-patch/errors_patch.dart:51:61)
+#1      _AssertionError._throwNew (dart:core-patch/errors_patch.dart:40:5)
+#2      FlutterDriverExtension.call (package:flutter_driver/src/extension/extension.dart:366:14)
+#3      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart:851:32)
+<asynchronous suspension>
+, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 00:11:08.475595 >>> {command: get_health}
+2022-08-14 00:11:08.621895 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 00:11:08.642900 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 00:11:08.819032 <<< {isError: true, response: Uncaught extension error while executing tap: 'package:flutter_driver/src/extension/extension.dart': Failed assertion: line 366 pos 14: 'WidgetsBinding.instance.isRootWidgetAttached || !command.requiresRootWidgetAttached': No root widget is attached; have you remembered to call runApp()?
+#0      _AssertionError._doThrowNew (dart:core-patch/errors_patch.dart:51:61)
+#1      _AssertionError._throwNew (dart:core-patch/errors_patch.dart:40:5)
+#2      FlutterDriverExtension.call (package:flutter_driver/src/extension/extension.dart:366:14)
+#3      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart:851:32)
+<asynchronous suspension>
+, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 00:16:59.441676 >>> {command: get_health}
+2022-08-14 00:16:59.767915 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 00:16:59.796837 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 00:17:00.156199 <<< {isError: true, response: Uncaught extension error while executing tap: 'package:flutter_driver/src/extension/extension.dart': Failed assertion: line 366 pos 14: 'WidgetsBinding.instance.isRootWidgetAttached || !command.requiresRootWidgetAttached': No root widget is attached; have you remembered to call runApp()?
+#0      _AssertionError._doThrowNew (dart:core-patch/errors_patch.dart:51:61)
+#1      _AssertionError._throwNew (dart:core-patch/errors_patch.dart:40:5)
+#2      FlutterDriverExtension.call (package:flutter_driver/src/extension/extension.dart:366:14)
+#3      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart:851:32)
+<asynchronous suspension>
+, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 00:18:48.395666 >>> {command: get_health}
+2022-08-14 00:18:48.515933 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 00:18:48.536688 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 00:18:48.659114 <<< {isError: true, response: Uncaught extension error while executing tap: 'package:flutter_driver/src/extension/extension.dart': Failed assertion: line 366 pos 14: 'WidgetsBinding.instance.isRootWidgetAttached || !command.requiresRootWidgetAttached': No root widget is attached; have you remembered to call runApp()?
+#0      _AssertionError._doThrowNew (dart:core-patch/errors_patch.dart:51:61)
+#1      _AssertionError._throwNew (dart:core-patch/errors_patch.dart:40:5)
+#2      FlutterDriverExtension.call (package:flutter_driver/src/extension/extension.dart:366:14)
+#3      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart:851:32)
+<asynchronous suspension>
+, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 00:41:29.484581 >>> {command: get_health}
+2022-08-14 00:41:29.642757 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 00:41:29.666685 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 00:41:29.870431 <<< {isError: true, response: Uncaught extension error while executing tap: 'package:flutter_driver/src/extension/extension.dart': Failed assertion: line 366 pos 14: 'WidgetsBinding.instance.isRootWidgetAttached || !command.requiresRootWidgetAttached': No root widget is attached; have you remembered to call runApp()?
+#0      _AssertionError._doThrowNew (dart:core-patch/errors_patch.dart:51:61)
+#1      _AssertionError._throwNew (dart:core-patch/errors_patch.dart:40:5)
+#2      FlutterDriverExtension.call (package:flutter_driver/src/extension/extension.dart:366:14)
+#3      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart:851:32)
+<asynchronous suspension>
+, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 00:43:02.452036 >>> {command: get_health}
+2022-08-14 00:43:02.609705 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 00:43:02.621672 >>> {command: waitForCondition, conditionName: FirstFrameRasterizedCondition}
+2022-08-14 00:53:25.332098 >>> {command: get_health}
+2022-08-14 00:53:25.470004 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 00:53:25.478987 >>> {command: waitForCondition, conditionName: FirstFrameRasterizedCondition}
+2022-08-14 01:01:47.381767 >>> {command: get_health}
+2022-08-14 01:01:47.511001 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:01:47.519759 >>> {command: waitForCondition, conditionName: FirstFrameRasterizedCondition}
+2022-08-14 01:04:18.642829 >>> {command: get_health}
+2022-08-14 01:04:18.809104 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:04:18.818080 >>> {command: waitForCondition, conditionName: FirstFrameRasterizedCondition}
+2022-08-14 01:12:53.070968 >>> {command: get_health}
+2022-08-14 01:12:57.373766 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:13:07.404095 >>> {command: get_health}
+2022-08-14 01:13:07.417063 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:13:07.429196 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 01:15:40.359472 >>> {command: get_health}
+2022-08-14 01:15:44.067105 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:15:54.093148 >>> {command: get_health}
+2022-08-14 01:15:54.110451 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:15:54.131713 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 01:22:39.368664 >>> {command: get_health}
+2022-08-14 01:22:43.591514 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:22:53.618112 >>> {command: get_health}
+2022-08-14 01:22:53.639730 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:22:53.658731 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 01:31:09.843879 >>> {command: get_health}
+2022-08-14 01:31:13.687850 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:31:13.698829 >>> {command: waitForCondition, conditionName: FirstFrameRasterizedCondition}
+2022-08-14 01:31:14.253669 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:31:14.280127 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 01:31:15.094620 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:31:15.100606 >>> {command: enter_text, text: chandan}
+2022-08-14 01:31:15.782913 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:43:47.397572 >>> {command: get_health}
+2022-08-14 01:43:52.007809 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:43:52.019769 >>> {command: waitForCondition, conditionName: FirstFrameRasterizedCondition}
+2022-08-14 01:43:52.810684 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:43:52.837612 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 01:43:53.835430 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:43:53.843228 >>> {command: enter_text, text: chandan}
+2022-08-14 01:43:54.249578 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:46:29.449775 >>> {command: get_health}
+2022-08-14 01:46:33.961553 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:46:33.972523 >>> {command: waitForCondition, conditionName: FirstFrameRasterizedCondition}
+2022-08-14 01:46:34.672747 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:46:34.713639 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 01:46:35.883025 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:46:35.890009 >>> {command: enter_text, text: chandan}
+2022-08-14 01:46:36.572831 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:51:36.690230 >>> {command: get_health}
+2022-08-14 01:51:42.967552 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:51:43.043341 >>> {command: waitForCondition, conditionName: FirstFrameRasterizedCondition}
+2022-08-14 01:51:44.330923 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:51:44.404724 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 01:51:46.501540 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:51:46.515503 >>> {command: enter_text, text: chandan}
+2022-08-14 01:51:47.345126 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:56:58.267209 >>> {command: get_health}
+2022-08-14 01:57:02.560903 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:57:02.571872 >>> {command: waitForCondition, conditionName: FirstFrameRasterizedCondition}
+2022-08-14 01:57:03.117825 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:57:03.146749 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 01:57:04.085788 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:57:04.091769 >>> {command: enter_text, text: chandan}
+2022-08-14 01:57:04.498272 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:57:04.506252 >>> {command: waitFor, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 01:57:04.758524 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:57:04.763510 >>> {command: tap, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 01:57:04.853814 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:57:04.858802 >>> {command: enter_text, text: Rout}
+2022-08-14 01:57:04.878910 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:57:04.883897 >>> {command: tap, finderType: ByValueKey, keyValueString: emailTextField, keyValueType: String}
+2022-08-14 01:57:05.175414 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:57:05.180507 >>> {command: enter_text, text: chandan@gmail.com}
+2022-08-14 01:57:05.198197 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:57:05.203187 >>> {command: tap, finderType: ByValueKey, keyValueString: phoneNumberTextField, keyValueType: String}
+2022-08-14 01:57:05.491110 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:57:05.497095 >>> {command: enter_text, text: 9938182217}
+2022-08-14 01:57:05.611167 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:57:05.619145 >>> {command: tap, finderType: ByValueKey, keyValueString: currentCompanyTextField, keyValueType: String}
+2022-08-14 01:57:05.896542 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:57:05.901521 >>> {command: enter_text, text: MyCompany}
+2022-08-14 01:57:05.992163 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:57:05.997144 >>> {command: tap, finderType: ByValueKey, keyValueString: cityTextField, keyValueType: String}
+2022-08-14 01:57:06.328144 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:57:06.333123 >>> {command: enter_text, text: Chennai}
+2022-08-14 01:57:06.469067 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 01:57:06.475043 >>> {command: tap, finderType: ByValueKey, keyValueString: dobTextField, keyValueType: String}
+2022-08-14 02:02:26.621447 >>> {command: get_health}
+2022-08-14 02:02:30.072409 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:02:30.083401 >>> {command: waitForCondition, conditionName: FirstFrameRasterizedCondition}
+2022-08-14 02:02:30.983193 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:02:31.008039 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 02:02:31.749905 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:02:31.755895 >>> {command: enter_text, text: chandan}
+2022-08-14 02:02:32.084844 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:02:32.090824 >>> {command: waitFor, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 02:02:32.348876 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:02:32.352865 >>> {command: tap, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 02:02:32.463153 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:02:32.469137 >>> {command: enter_text, text: Rout}
+2022-08-14 02:02:32.563925 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:02:32.567914 >>> {command: tap, finderType: ByValueKey, keyValueString: emailTextField, keyValueType: String}
+2022-08-14 02:02:32.848533 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:02:32.853305 >>> {command: enter_text, text: chandan@gmail.com}
+2022-08-14 02:02:32.922599 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:02:32.927587 >>> {command: tap, finderType: ByValueKey, keyValueString: phoneNumberTextField, keyValueType: String}
+2022-08-14 02:02:33.183804 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:02:33.220714 >>> {command: enter_text, text: 9938182217}
+2022-08-14 02:02:33.294755 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:02:33.317888 >>> {command: tap, finderType: ByValueKey, keyValueString: currentCompanyTextField, keyValueType: String}
+2022-08-14 02:02:33.629630 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:02:33.634617 >>> {command: enter_text, text: MyCompany}
+2022-08-14 02:02:33.697812 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:02:33.702039 >>> {command: tap, finderType: ByValueKey, keyValueString: cityTextField, keyValueType: String}
+2022-08-14 02:02:33.983621 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:02:33.987608 >>> {command: enter_text, text: Chennai}
+2022-08-14 02:02:34.069670 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:02:34.073823 >>> {command: tap, finderType: ByValueKey, keyValueString: dobTextField, keyValueType: String}
+2022-08-14 02:12:31.802356 >>> {command: get_health}
+2022-08-14 02:12:34.648757 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:12:34.658010 >>> {command: waitForCondition, conditionName: FirstFrameRasterizedCondition}
+2022-08-14 02:12:35.124071 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:12:35.150976 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 02:12:35.871237 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:12:35.878224 >>> {command: enter_text, text: chandan}
+2022-08-14 02:12:36.330861 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:12:36.338840 >>> {command: waitFor, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 02:12:36.554645 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:12:36.558633 >>> {command: tap, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 02:12:36.655409 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:12:36.660178 >>> {command: enter_text, text: Rout}
+2022-08-14 02:12:36.674955 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:12:36.678946 >>> {command: tap, finderType: ByValueKey, keyValueString: emailTextField, keyValueType: String}
+2022-08-14 02:12:36.954879 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:12:36.961153 >>> {command: enter_text, text: chandan@gmail.com}
+2022-08-14 02:12:37.017720 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:12:37.022707 >>> {command: tap, finderType: ByValueKey, keyValueString: phoneNumberTextField, keyValueType: String}
+2022-08-14 02:12:37.293859 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:12:37.299823 >>> {command: enter_text, text: 9938182217}
+2022-08-14 02:12:37.356082 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:12:37.360058 >>> {command: tap, finderType: ByValueKey, keyValueString: currentCompanyTextField, keyValueType: String}
+2022-08-14 02:12:37.599720 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:12:37.603718 >>> {command: enter_text, text: MyCompany}
+2022-08-14 02:12:37.659431 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:12:37.664419 >>> {command: tap, finderType: ByValueKey, keyValueString: cityTextField, keyValueType: String}
+2022-08-14 02:12:37.952337 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:12:37.957327 >>> {command: enter_text, text: Chennai}
+2022-08-14 02:12:38.041052 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:12:38.046039 >>> {command: tap, finderType: ByValueKey, keyValueString: dobTextField, keyValueType: String}
+2022-08-14 02:13:03.921702 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:13:03.926688 >>> {command: enter_text, text: 25Feb}
+2022-08-14 02:13:03.950932 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:17:27.027774 >>> {command: get_health}
+2022-08-14 02:17:30.197774 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:17:30.207955 >>> {command: waitForCondition, conditionName: FirstFrameRasterizedCondition}
+2022-08-14 02:17:30.779698 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:17:30.810037 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 02:17:31.519221 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:17:31.522466 >>> {command: enter_text, text: chandan}
+2022-08-14 02:17:31.910776 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:17:31.915769 >>> {command: waitFor, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 02:17:32.157079 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:17:32.161335 >>> {command: tap, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 02:17:32.261760 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:17:32.264751 >>> {command: enter_text, text: Rout}
+2022-08-14 02:17:32.338640 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:17:32.341624 >>> {command: tap, finderType: ByValueKey, keyValueString: emailTextField, keyValueType: String}
+2022-08-14 02:17:32.590940 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:17:32.593752 >>> {command: enter_text, text: chandan@gmail.com}
+2022-08-14 02:17:32.655685 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:17:32.658684 >>> {command: tap, finderType: ByValueKey, keyValueString: phoneNumberTextField, keyValueType: String}
+2022-08-14 02:17:32.942994 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:17:32.945989 >>> {command: enter_text, text: 9938182217}
+2022-08-14 02:17:32.966618 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:17:32.968616 >>> {command: tap, finderType: ByValueKey, keyValueString: currentCompanyTextField, keyValueType: String}
+2022-08-14 02:17:33.268867 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:17:33.283845 >>> {command: enter_text, text: MyCompany}
+2022-08-14 02:17:33.345701 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:17:33.359664 >>> {command: tap, finderType: ByValueKey, keyValueString: cityTextField, keyValueType: String}
+2022-08-14 02:17:33.617932 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:17:33.620856 >>> {command: enter_text, text: Chennai}
+2022-08-14 02:17:33.716480 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:17:33.719474 >>> {command: tap, finderType: ByValueKey, keyValueString: dobTextField, keyValueType: String}
+2022-08-14 02:26:49.568340 >>> {command: get_health}
+2022-08-14 02:26:53.383860 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:26:53.392836 >>> {command: waitForCondition, conditionName: FirstFrameRasterizedCondition}
+2022-08-14 02:26:54.053536 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:26:54.110385 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 02:26:54.939878 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:26:54.943867 >>> {command: enter_text, text: chandan}
+2022-08-14 02:26:54.989 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:26:54.991991 >>> {command: waitFor, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 02:26:55.414426 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:26:55.417418 >>> {command: tap, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 02:26:55.500475 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:26:55.504457 >>> {command: enter_text, text: Rout}
+2022-08-14 02:26:55.625634 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:26:55.628627 >>> {command: tap, finderType: ByValueKey, keyValueString: emailTextField, keyValueType: String}
+2022-08-14 02:26:55.909561 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:26:55.912553 >>> {command: enter_text, text: chandan@gmail.com}
+2022-08-14 02:26:55.985359 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:26:55.989348 >>> {command: tap, finderType: ByValueKey, keyValueString: phoneNumberTextField, keyValueType: String}
+2022-08-14 02:26:56.294720 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:26:56.297712 >>> {command: enter_text, text: 9938182217}
+2022-08-14 02:26:56.317658 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:26:56.321650 >>> {command: tap, finderType: ByValueKey, keyValueString: currentCompanyTextField, keyValueType: String}
+2022-08-14 02:26:56.581444 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:26:56.584441 >>> {command: enter_text, text: MyCompany}
+2022-08-14 02:26:56.652823 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:26:56.655815 >>> {command: tap, finderType: ByValueKey, keyValueString: cityTextField, keyValueType: String}
+2022-08-14 02:26:56.925255 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:26:56.928247 >>> {command: enter_text, text: Chennai}
+2022-08-14 02:26:56.948196 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:26:56.952182 >>> {command: tap, finderType: ByValueKey, keyValueString: dobTextField, keyValueType: String}
+2022-08-14 02:29:22.517031 >>> {command: get_health}
+2022-08-14 02:29:26.870217 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:29:26.879194 >>> {command: waitForCondition, conditionName: FirstFrameRasterizedCondition}
+2022-08-14 02:29:27.479173 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:29:27.532042 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 02:29:28.547623 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:29:28.559595 >>> {command: enter_text, text: chandan}
+2022-08-14 02:29:29.044700 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:29:29.054665 >>> {command: waitFor, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 02:29:29.269260 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:29:29.274247 >>> {command: tap, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 02:29:29.360901 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:29:29.366878 >>> {command: enter_text, text: Rout}
+2022-08-14 02:29:29.424081 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:29:29.428069 >>> {command: tap, finderType: ByValueKey, keyValueString: emailTextField, keyValueType: String}
+2022-08-14 02:29:29.702795 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:29:29.707777 >>> {command: enter_text, text: chandan@gmail.com}
+2022-08-14 02:29:29.761148 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:29:29.764894 >>> {command: tap, finderType: ByValueKey, keyValueString: phoneNumberTextField, keyValueType: String}
+2022-08-14 02:29:30.029802 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:29:30.035786 >>> {command: enter_text, text: 9938182217}
+2022-08-14 02:29:30.103994 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:29:30.108981 >>> {command: tap, finderType: ByValueKey, keyValueString: currentCompanyTextField, keyValueType: String}
+2022-08-14 02:29:30.367964 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:29:30.372910 >>> {command: enter_text, text: MyCompany}
+2022-08-14 02:29:30.442995 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:29:30.446981 >>> {command: tap, finderType: ByValueKey, keyValueString: cityTextField, keyValueType: String}
+2022-08-14 02:29:30.715253 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:29:30.719808 >>> {command: enter_text, text: Chennai}
+2022-08-14 02:29:30.819551 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:29:30.824538 >>> {command: tap, finderType: ByValueKey, keyValueString: dobTextField, keyValueType: String}
+2022-08-14 02:50:54.225489 >>> {command: get_health}
+2022-08-14 02:51:01.614171 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:51:01.624142 >>> {command: waitForCondition, conditionName: FirstFrameRasterizedCondition}
+2022-08-14 02:51:02.464190 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:51:02.489063 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 02:51:04.023681 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:51:04.028660 >>> {command: enter_text, text: chandan}
+2022-08-14 02:51:05.122223 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:51:05.127210 >>> {command: waitFor, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 02:51:05.802255 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:51:05.805247 >>> {command: tap, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 02:51:06.024252 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:51:06.027235 >>> {command: enter_text, text: Rout}
+2022-08-14 02:51:06.256427 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:51:06.259832 >>> {command: tap, finderType: ByValueKey, keyValueString: emailTextField, keyValueType: String}
+2022-08-14 02:51:07.114280 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:51:07.117270 >>> {command: enter_text, text: chandan@gmail.com}
+2022-08-14 02:51:07.255111 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:51:07.257105 >>> {command: tap, finderType: ByValueKey, keyValueString: phoneNumberTextField, keyValueType: String}
+2022-08-14 02:51:08.014562 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:51:08.017552 >>> {command: enter_text, text: 9938182217}
+2022-08-14 02:51:08.127226 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:51:08.130225 >>> {command: tap, finderType: ByValueKey, keyValueString: currentCompanyTextField, keyValueType: String}
+2022-08-14 02:51:08.556290 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:51:08.558285 >>> {command: enter_text, text: MyCompany}
+2022-08-14 02:51:08.741139 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:51:08.744131 >>> {command: tap, finderType: ByValueKey, keyValueString: cityTextField, keyValueType: String}
+2022-08-14 02:51:09.188091 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:51:09.192070 >>> {command: enter_text, text: Chennai}
+2022-08-14 02:51:09.424992 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:51:09.427984 >>> {command: tap, finderType: ByValueKey, keyValueString: dobTextField, keyValueType: String}
+2022-08-14 02:59:21.878175 >>> {command: get_health}
+2022-08-14 02:59:27.254600 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:59:27.267564 >>> {command: waitForCondition, conditionName: FirstFrameRasterizedCondition}
+2022-08-14 02:59:28.079566 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:59:28.105316 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 02:59:29.231185 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:59:29.238164 >>> {command: enter_text, text: chandan}
+2022-08-14 02:59:29.911987 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:59:29.930936 >>> {command: waitFor, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 02:59:30.227944 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:59:30.233928 >>> {command: tap, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 02:59:30.345456 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:59:30.350447 >>> {command: enter_text, text: Rout}
+2022-08-14 02:59:30.424153 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:59:30.428135 >>> {command: tap, finderType: ByValueKey, keyValueString: emailTextField, keyValueType: String}
+2022-08-14 02:59:30.736632 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:59:30.741618 >>> {command: enter_text, text: chandan@gmail.com}
+2022-08-14 02:59:30.826492 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:59:30.831472 >>> {command: tap, finderType: ByValueKey, keyValueString: phoneNumberTextField, keyValueType: String}
+2022-08-14 02:59:31.132845 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:59:31.136841 >>> {command: enter_text, text: 9938182217}
+2022-08-14 02:59:31.195239 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:59:31.200219 >>> {command: tap, finderType: ByValueKey, keyValueString: currentCompanyTextField, keyValueType: String}
+2022-08-14 02:59:31.461198 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:59:31.465188 >>> {command: enter_text, text: MyCompany}
+2022-08-14 02:59:31.545404 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:59:31.550391 >>> {command: tap, finderType: ByValueKey, keyValueString: cityTextField, keyValueType: String}
+2022-08-14 02:59:31.828675 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:59:31.832665 >>> {command: enter_text, text: Chennai}
+2022-08-14 02:59:31.962393 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 02:59:31.970372 >>> {command: scroll, finderType: ByValueKey, keyValueString: cityTextField, keyValueType: String, dx: -15.0, dy: -1189.0, duration: 1700, frequency: 60}
+2022-08-14 02:59:32.634715 <<< {isError: true, response: Uncaught extension error while executing scroll: IntegerDivisionByZeroException
+#0      Duration.~/ (dart:core/duration.dart:219:24)
+#1      CommandHandlerFactory._scroll (package:flutter_driver/src/common/handler_factory.dart:369:51)
+<asynchronous suspension>
+#2      FlutterDriverExtension.call (package:flutter_driver/src/extension/extension.dart:372:31)
+<asynchronous suspension>
+#3      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart:851:18)
+<asynchronous suspension>
+, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:01:57.415783 >>> {command: get_health}
+2022-08-14 03:02:02.011470 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:02:02.022446 >>> {command: waitForCondition, conditionName: FirstFrameRasterizedCondition}
+2022-08-14 03:02:02.674231 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:02:02.702210 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 03:02:03.554581 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:02:03.562559 >>> {command: enter_text, text: chandan}
+2022-08-14 03:02:04.031156 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:02:04.037139 >>> {command: waitFor, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 03:02:04.264135 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:02:04.269124 >>> {command: tap, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 03:02:04.369802 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:02:04.374794 >>> {command: enter_text, text: Rout}
+2022-08-14 03:02:04.451552 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:02:04.485111 >>> {command: tap, finderType: ByValueKey, keyValueString: emailTextField, keyValueType: String}
+2022-08-14 03:02:04.740322 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:02:04.747297 >>> {command: enter_text, text: chandan@gmail.com}
+2022-08-14 03:02:04.825088 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:02:04.829077 >>> {command: tap, finderType: ByValueKey, keyValueString: phoneNumberTextField, keyValueType: String}
+2022-08-14 03:02:05.171172 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:02:05.175160 >>> {command: enter_text, text: 9938182217}
+2022-08-14 03:02:05.200526 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:02:05.205511 >>> {command: tap, finderType: ByValueKey, keyValueString: currentCompanyTextField, keyValueType: String}
+2022-08-14 03:02:05.487600 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:02:05.491789 >>> {command: enter_text, text: MyCompany}
+2022-08-14 03:02:05.589121 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:02:05.593102 >>> {command: tap, finderType: ByValueKey, keyValueString: cityTextField, keyValueType: String}
+2022-08-14 03:02:05.912793 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:02:05.916776 >>> {command: enter_text, text: Chennai}
+2022-08-14 03:02:06.059135 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:02:06.067114 >>> {command: scroll, finderType: ByValueKey, keyValueString: cityTextField, keyValueType: String, dx: -15.0, dy: -1189.0, duration: 1700, frequency: 60}
+2022-08-14 03:02:06.559781 <<< {isError: true, response: Uncaught extension error while executing scroll: IntegerDivisionByZeroException
+#0      Duration.~/ (dart:core/duration.dart:219:24)
+#1      CommandHandlerFactory._scroll (package:flutter_driver/src/common/handler_factory.dart:369:51)
+<asynchronous suspension>
+#2      FlutterDriverExtension.call (package:flutter_driver/src/extension/extension.dart:372:31)
+<asynchronous suspension>
+#3      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart:851:18)
+<asynchronous suspension>
+, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:04:50.027599 >>> {command: get_health}
+2022-08-14 03:04:54.076136 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:04:54.087098 >>> {command: waitForCondition, conditionName: FirstFrameRasterizedCondition}
+2022-08-14 03:04:54.744705 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:04:54.771632 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 03:04:55.721658 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:04:55.731631 >>> {command: enter_text, text: chandan}
+2022-08-14 03:04:56.122301 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:04:56.128285 >>> {command: waitFor, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 03:04:56.383128 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:04:56.390112 >>> {command: tap, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 03:04:56.492085 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:04:56.503056 >>> {command: enter_text, text: Rout}
+2022-08-14 03:04:56.551430 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:04:56.556410 >>> {command: tap, finderType: ByValueKey, keyValueString: emailTextField, keyValueType: String}
+2022-08-14 03:04:56.826232 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:04:56.832208 >>> {command: enter_text, text: chandan@gmail.com}
+2022-08-14 03:04:56.916915 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:04:56.921524 >>> {command: tap, finderType: ByValueKey, keyValueString: phoneNumberTextField, keyValueType: String}
+2022-08-14 03:04:57.194094 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:04:57.198088 >>> {command: enter_text, text: 9938182217}
+2022-08-14 03:04:57.255140 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:04:57.259411 >>> {command: tap, finderType: ByValueKey, keyValueString: currentCompanyTextField, keyValueType: String}
+2022-08-14 03:04:57.541175 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:04:57.545166 >>> {command: enter_text, text: MyCompany}
+2022-08-14 03:04:57.619488 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:04:57.624471 >>> {command: tap, finderType: ByValueKey, keyValueString: cityTextField, keyValueType: String}
+2022-08-14 03:04:57.908359 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:04:57.911666 >>> {command: enter_text, text: Chennai}
+2022-08-14 03:04:57.997999 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:04:58.006895 >>> {command: scroll, finderType: ByValueKey, keyValueString: cityTextField, keyValueType: String, dx: -15.0, dy: -1189.0, duration: 1700, frequency: 60}
+2022-08-14 03:04:58.553055 <<< {isError: true, response: Uncaught extension error while executing scroll: IntegerDivisionByZeroException
+#0      Duration.~/ (dart:core/duration.dart:219:24)
+#1      CommandHandlerFactory._scroll (package:flutter_driver/src/common/handler_factory.dart:369:51)
+<asynchronous suspension>
+#2      FlutterDriverExtension.call (package:flutter_driver/src/extension/extension.dart:372:31)
+<asynchronous suspension>
+#3      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart:851:18)
+<asynchronous suspension>
+, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:10:04.627508 >>> {command: get_health}
+2022-08-14 03:10:09.062520 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:10:09.075484 >>> {command: waitForCondition, conditionName: FirstFrameRasterizedCondition}
+2022-08-14 03:10:09.808600 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:10:09.840516 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 03:10:10.804744 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:10:10.810940 >>> {command: enter_text, text: chandan}
+2022-08-14 03:10:11.286116 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:10:11.292098 >>> {command: waitFor, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 03:10:11.503342 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:10:11.508322 >>> {command: tap, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 03:10:11.599576 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:10:11.606557 >>> {command: enter_text, text: Rout}
+2022-08-14 03:10:11.670955 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:10:11.676932 >>> {command: tap, finderType: ByValueKey, keyValueString: emailTextField, keyValueType: String}
+2022-08-14 03:10:11.990704 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:10:12.007660 >>> {command: enter_text, text: chandan@gmail.com}
+2022-08-14 03:10:12.077472 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:10:12.083466 >>> {command: tap, finderType: ByValueKey, keyValueString: phoneNumberTextField, keyValueType: String}
+2022-08-14 03:10:12.365374 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:10:12.370570 >>> {command: enter_text, text: 9938182217}
+2022-08-14 03:10:12.424068 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:10:12.428575 >>> {command: tap, finderType: ByValueKey, keyValueString: currentCompanyTextField, keyValueType: String}
+2022-08-14 03:10:12.734351 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:10:12.739334 >>> {command: enter_text, text: MyCompany}
+2022-08-14 03:10:12.796242 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:10:12.802210 >>> {command: tap, finderType: ByValueKey, keyValueString: cityTextField, keyValueType: String}
+2022-08-14 03:10:13.089127 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:10:13.095098 >>> {command: enter_text, text: Chennai}
+2022-08-14 03:10:13.194802 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:10:13.203844 >>> {command: scroll, finderType: ByValueKey, keyValueString: cityTextField, keyValueType: String, dx: -15.0, dy: -1189.0, duration: 1700, frequency: 60}
+2022-08-14 03:10:13.698466 <<< {isError: true, response: Uncaught extension error while executing scroll: IntegerDivisionByZeroException
+#0      Duration.~/ (dart:core/duration.dart:219:24)
+#1      CommandHandlerFactory._scroll (package:flutter_driver/src/common/handler_factory.dart:369:51)
+<asynchronous suspension>
+#2      FlutterDriverExtension.call (package:flutter_driver/src/extension/extension.dart:372:31)
+<asynchronous suspension>
+#3      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart:851:18)
+<asynchronous suspension>
+, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:24:47.992970 >>> {command: get_health}
+2022-08-14 03:24:53.681264 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:24:53.696225 >>> {command: waitForCondition, conditionName: FirstFrameRasterizedCondition}
+2022-08-14 03:24:54.616283 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:24:54.645206 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 03:24:56.733957 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:24:56.790413 >>> {command: enter_text, text: chandan}
+2022-08-14 03:24:57.347482 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:24:57.354462 >>> {command: waitFor, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 03:24:57.578154 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:24:57.583142 >>> {command: tap, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 03:24:57.702606 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:24:57.707593 >>> {command: enter_text, text: Rout}
+2022-08-14 03:24:57.781158 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:24:57.786137 >>> {command: tap, finderType: ByValueKey, keyValueString: emailTextField, keyValueType: String}
+2022-08-14 03:24:58.156486 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:24:58.162476 >>> {command: enter_text, text: chandan@gmail.com}
+2022-08-14 03:24:58.226137 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:24:58.231124 >>> {command: tap, finderType: ByValueKey, keyValueString: phoneNumberTextField, keyValueType: String}
+2022-08-14 03:24:58.550829 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:24:58.558819 >>> {command: enter_text, text: 9938182217}
+2022-08-14 03:24:58.629438 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:24:58.634417 >>> {command: tap, finderType: ByValueKey, keyValueString: currentCompanyTextField, keyValueType: String}
+2022-08-14 03:24:58.915274 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:24:58.919264 >>> {command: enter_text, text: MyCompany}
+2022-08-14 03:24:58.948200 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:24:58.953182 >>> {command: tap, finderType: ByValueKey, keyValueString: cityTextField, keyValueType: String}
+2022-08-14 03:24:59.413329 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:24:59.423304 >>> {command: enter_text, text: Chennai}
+2022-08-14 03:24:59.541790 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:24:59.552761 >>> {command: scroll, finderType: ByValueKey, keyValueString: cityTextField, keyValueType: String, dx: -15.0, dy: -1189.0, duration: 1700, frequency: 60}
+2022-08-14 03:25:00.206236 <<< {isError: true, response: Uncaught extension error while executing scroll: IntegerDivisionByZeroException
+#0      Duration.~/ (dart:core/duration.dart:219:24)
+#1      CommandHandlerFactory._scroll (package:flutter_driver/src/common/handler_factory.dart:369:51)
+<asynchronous suspension>
+#2      FlutterDriverExtension.call (package:flutter_driver/src/extension/extension.dart:372:31)
+<asynchronous suspension>
+#3      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart:851:18)
+<asynchronous suspension>
+, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:34:32.180190 >>> {command: get_health}
+2022-08-14 03:34:36.776468 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:34:36.787168 >>> {command: waitForCondition, conditionName: FirstFrameRasterizedCondition}
+2022-08-14 03:34:37.645303 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:34:37.866233 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 03:34:38.986524 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:34:38.996233 >>> {command: enter_text, text: chandan}
+2022-08-14 03:34:39.492352 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:34:39.519282 >>> {command: waitFor, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 03:34:39.735312 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:34:39.743292 >>> {command: tap, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 03:34:39.854664 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:34:39.859643 >>> {command: enter_text, text: Rout}
+2022-08-14 03:34:39.919309 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:34:39.924289 >>> {command: tap, finderType: ByValueKey, keyValueString: emailTextField, keyValueType: String}
+2022-08-14 03:34:40.208320 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:34:40.214913 >>> {command: enter_text, text: chandan@gmail.com}
+2022-08-14 03:34:40.280266 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:34:40.285258 >>> {command: tap, finderType: ByValueKey, keyValueString: phoneNumberTextField, keyValueType: String}
+2022-08-14 03:34:40.588526 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:34:40.592513 >>> {command: enter_text, text: 9938182217}
+2022-08-14 03:34:40.654532 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:34:40.658886 >>> {command: tap, finderType: ByValueKey, keyValueString: currentCompanyTextField, keyValueType: String}
+2022-08-14 03:34:40.976538 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:34:40.982222 >>> {command: enter_text, text: MyCompany}
+2022-08-14 03:34:41.060529 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:34:41.066803 >>> {command: tap, finderType: ByValueKey, keyValueString: cityTextField, keyValueType: String}
+2022-08-14 03:34:41.358526 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:34:41.364510 >>> {command: enter_text, text: Chennai}
+2022-08-14 03:34:41.484194 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 03:34:41.499155 >>> {command: scroll, finderType: ByValueKey, keyValueString: cityTextField, keyValueType: String, dx: -15.0, dy: -1189.0, duration: 1700, frequency: 60}
+2022-08-14 03:34:42.108362 <<< {isError: true, response: Uncaught extension error while executing scroll: IntegerDivisionByZeroException
+#0      Duration.~/ (dart:core/duration.dart:219:24)
+#1      CommandHandlerFactory._scroll (package:flutter_driver/src/common/handler_factory.dart:369:51)
+<asynchronous suspension>
+#2      FlutterDriverExtension.call (package:flutter_driver/src/extension/extension.dart:372:31)
+<asynchronous suspension>
+#3      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart:851:18)
+<asynchronous suspension>
+, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:30:47.558123 >>> {command: get_health}
+2022-08-14 15:30:51.910575 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:30:51.926084 >>> {command: waitForCondition, conditionName: FirstFrameRasterizedCondition}
+2022-08-14 15:30:52.437056 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:30:52.459116 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 15:30:53.365682 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:30:53.374658 >>> {command: enter_text, text: chandan}
+2022-08-14 15:30:53.805505 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:30:53.811489 >>> {command: waitFor, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 15:30:54.068808 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:30:54.073788 >>> {command: tap, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 15:30:54.160558 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:30:54.165545 >>> {command: enter_text, text: Rout}
+2022-08-14 15:30:54.182498 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:30:54.187486 >>> {command: tap, finderType: ByValueKey, keyValueString: emailTextField, keyValueType: String}
+2022-08-14 15:30:54.475713 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:30:54.480702 >>> {command: enter_text, text: chandan@gmail.com}
+2022-08-14 15:30:54.500646 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:30:54.505635 >>> {command: tap, finderType: ByValueKey, keyValueString: phoneNumberTextField, keyValueType: String}
+2022-08-14 15:30:54.838229 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:30:54.844212 >>> {command: enter_text, text: 9938182217}
+2022-08-14 15:30:54.886108 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:30:54.890088 >>> {command: tap, finderType: ByValueKey, keyValueString: currentCompanyTextField, keyValueType: String}
+2022-08-14 15:30:55.163659 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:30:55.169644 >>> {command: enter_text, text: MyCompany}
+2022-08-14 15:30:55.236460 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:30:55.240450 >>> {command: tap, finderType: ByValueKey, keyValueString: cityTextField, keyValueType: String}
+2022-08-14 15:30:55.543653 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:30:55.548643 >>> {command: enter_text, text: Chennai}
+2022-08-14 15:30:55.646369 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:30:55.654351 >>> {command: scroll, finderType: ByValueKey, keyValueString: cityTextField, keyValueType: String, dx: -15.0, dy: -1189.0, duration: 1700, frequency: 60}
+2022-08-14 15:30:56.167978 <<< {isError: true, response: Uncaught extension error while executing scroll: IntegerDivisionByZeroException
+#0      Duration.~/ (dart:core/duration.dart:219:24)
+#1      CommandHandlerFactory._scroll (package:flutter_driver/src/common/handler_factory.dart:369:51)
+<asynchronous suspension>
+#2      FlutterDriverExtension.call (package:flutter_driver/src/extension/extension.dart:372:31)
+<asynchronous suspension>
+#3      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart:851:18)
+<asynchronous suspension>
+, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:50:29.200014 >>> {command: get_health}
+2022-08-14 15:50:33.048349 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:50:33.057326 >>> {command: waitForCondition, conditionName: FirstFrameRasterizedCondition}
+2022-08-14 15:50:33.595926 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:50:33.624595 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 15:50:34.389524 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:50:34.402484 >>> {command: enter_text, text: chandan}
+2022-08-14 15:50:34.820310 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:50:34.825297 >>> {command: waitFor, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 15:50:35.076644 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:50:35.079636 >>> {command: tap, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 15:50:35.148464 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:50:35.151451 >>> {command: enter_text, text: Rout}
+2022-08-14 15:50:35.192344 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:50:35.194339 >>> {command: tap, finderType: ByValueKey, keyValueString: emailTextField, keyValueType: String}
+2022-08-14 15:50:35.484590 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:50:35.489583 >>> {command: enter_text, text: chandan@gmail.com}
+2022-08-14 15:50:35.549418 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:50:35.552420 >>> {command: tap, finderType: ByValueKey, keyValueString: phoneNumberTextField, keyValueType: String}
+2022-08-14 15:50:35.840660 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:50:35.844649 >>> {command: enter_text, text: 9938182217}
+2022-08-14 15:50:35.905491 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:50:35.909504 >>> {command: tap, finderType: ByValueKey, keyValueString: currentCompanyTextField, keyValueType: String}
+2022-08-14 15:50:36.216682 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:50:36.230646 >>> {command: enter_text, text: MyCompany}
+2022-08-14 15:50:36.314428 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:50:39.342523 >>> {command: scroll, finderType: ByType, type: ListView, dx: 0.0, dy: -300.0, duration: 500, frequency: 60}
+2022-08-14 15:50:39.420318 <<< {isError: true, response: Uncaught extension error while executing scroll: IntegerDivisionByZeroException
+#0      Duration.~/ (dart:core/duration.dart:219:24)
+#1      CommandHandlerFactory._scroll (package:flutter_driver/src/common/handler_factory.dart:369:51)
+<asynchronous suspension>
+#2      FlutterDriverExtension.call (package:flutter_driver/src/extension/extension.dart:372:31)
+<asynchronous suspension>
+#3      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart:851:18)
+<asynchronous suspension>
+, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:56:41.363702 >>> {command: get_health}
+2022-08-14 15:56:44.661758 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:56:44.668736 >>> {command: waitForCondition, conditionName: FirstFrameRasterizedCondition}
+2022-08-14 15:56:45.140498 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:56:45.163438 >>> {command: tap, finderType: ByValueKey, keyValueString: firstNameTextField, keyValueType: String}
+2022-08-14 15:56:45.852324 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:56:45.856312 >>> {command: enter_text, text: chandan}
+2022-08-14 15:56:46.493159 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:56:46.497148 >>> {command: waitFor, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 15:56:46.842249 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:56:46.845235 >>> {command: tap, finderType: ByValueKey, keyValueString: lastNameTextField, keyValueType: String}
+2022-08-14 15:56:46.935998 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:56:46.939987 >>> {command: enter_text, text: Rout}
+2022-08-14 15:56:47.008807 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:56:47.011804 >>> {command: tap, finderType: ByValueKey, keyValueString: emailTextField, keyValueType: String}
+2022-08-14 15:56:47.294061 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:56:47.298057 >>> {command: enter_text, text: chandan@gmail.com}
+2022-08-14 15:56:47.430701 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:56:47.447657 >>> {command: tap, finderType: ByValueKey, keyValueString: phoneNumberTextField, keyValueType: String}
+2022-08-14 15:56:47.701998 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:56:47.704983 >>> {command: enter_text, text: 9938182217}
+2022-08-14 15:56:47.774800 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:56:47.777792 >>> {command: tap, finderType: ByValueKey, keyValueString: currentCompanyTextField, keyValueType: String}
+2022-08-14 15:56:48.055680 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:56:48.062660 >>> {command: enter_text, text: MyCompany}
+2022-08-14 15:56:48.120511 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-08-14 15:56:51.133761 >>> {command: scroll, finderType: ByType, type: ListView, dx: 0.0, dy: -300.0, duration: 500, frequency: 60}
+2022-08-14 15:56:51.242036 <<< {isError: true, response: Uncaught extension error while executing scroll: IntegerDivisionByZeroException
+#0      Duration.~/ (dart:core/duration.dart:219:24)
+#1      CommandHandlerFactory._scroll (package:flutter_driver/src/common/handler_factory.dart:369:51)
+<asynchronous suspension>
+#2      FlutterDriverExtension.call (package:flutter_driver/src/extension/extension.dart:372:31)
+<asynchronous suspension>
+#3      BindingBase.registerServiceExtension.<anonymous closure> (package:flutter/src/foundation/binding.dart:851:18)
+<asynchronous suspension>
+, type: _extensionType, method: ext.flutter.driver}
